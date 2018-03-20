@@ -5,6 +5,7 @@ import java.util.Observer;
 
 public class Person implements Observer {
 
+
     /**
      * Observable  被观察者对象
      * arg   House.notifyObservers(price);   价格参数
@@ -17,5 +18,8 @@ public class Person implements Observer {
             }
         }
     }
+
+
+
 
 }

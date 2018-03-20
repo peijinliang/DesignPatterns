@@ -3,8 +3,8 @@ package com.design.patterns.singleton;
 /**
  * 多例设计模式
  * 已经被枚举 所 取代
- *
  */
+
 public class Sex {
 
     public static final int MALE_CMD = 1;

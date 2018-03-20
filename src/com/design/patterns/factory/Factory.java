@@ -8,6 +8,7 @@ package com.design.patterns.factory;
  */
 public class Factory {
 
+
     public static IFruit getInstance(String className) {
         if ("apple".equals(className)) {
             return new Apple();
@@ -17,5 +18,6 @@ public class Factory {
             return null;
         }
     }
+
 
 }

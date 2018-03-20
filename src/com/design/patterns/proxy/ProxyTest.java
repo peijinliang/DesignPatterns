@@ -8,6 +8,7 @@ package com.design.patterns.proxy;
  * 一个接口
  * 两个子类  一个真实实现 一个代理实现  。代理实现要调用真实实现，来完成所有的辅助操作。
  */
+
 public class ProxyTest {
 
     public static void main(String[] args) {

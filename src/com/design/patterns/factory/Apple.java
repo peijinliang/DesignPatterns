@@ -7,4 +7,5 @@ public class Apple implements IFruit {
         System.out.println("³ÔÆ»¹û£¡");
     }
 
+
 }

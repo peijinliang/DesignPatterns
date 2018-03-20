@@ -8,6 +8,7 @@ package com.design.patterns.singleton;
  * 懒汉式设计模式
  * 饿汉设计模式
  */
+
 public class SingletonTest {
 
     public static void main(String[] args) {
